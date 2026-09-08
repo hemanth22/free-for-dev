@@ -37,12 +37,12 @@
 <!-- This is only for new submissions -->
 <!-- Please ensure your submission ticks all of the requirements -->
 
- * [x] This is Software as a Service not self hosted
- * [x] It has a free tier not just a free trial
- * [x] Pricing information is clearly visible without signup or phone calls
- * [x] The submission mentions what is free
- * [x] The submission is not already present in the list
- * [x] The service has contact details of those running it and a privacy policy
+ * [ ] This is Software as a Service not self hosted
+ * [ ] It has a free tier not just a free trial
+ * [ ] Pricing information is clearly visible without signup or phone calls
+ * [ ] The submission mentions what is free
+ * [ ] The submission is not already present in the list
+ * [ ] The service has contact details of those running it and a privacy policy
 
 <!--
  Contributing here is very easy, but does require attention to details.
